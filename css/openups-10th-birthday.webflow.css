@@ -1134,6 +1134,11 @@ figure {
   right: 0%;
 }
 
+.v-scroll_trigger.is-last {
+  align-self: flex-end;
+  bottom: 10vh;
+}
+
 .banner-text--fs0 {
   white-space: nowrap;
   margin-top: 15vh;
